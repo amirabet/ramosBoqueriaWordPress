@@ -1,0 +1,323 @@
+# Copyright (C) 2015 SkyVerge
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Realex Redirect Gateway 1.3.2\n"
+"Report-Msgid-Bugs-To: https://support.woothemes.com/hc/\n"
+"POT-Creation-Date: 2014-06-15 22:41:28+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: classes/class-wc-gateway-realex-redirect.php:91
+msgid "Realex"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:92
+msgid ""
+"Realex Redirect Gateway provides a secure checkout process for your "
+"customers without the requirement of an SSL certificate"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:145
+msgid "TEST MODE ENABLED"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:176
+msgid "Enable"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:177
+msgid "Enable Realex"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:184
+msgid "Title"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:186
+msgid "Payment method title that the customer will see on your website."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:187
+msgid "Credit Card"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:191
+msgid "Description"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:193
+msgid "Payment method description that the customer will see on your website."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:194
+msgid "Pay securely using your credit card."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:198
+msgid "Test Mode"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:199
+msgid "Enable Test Mode"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:201
+msgid "Place the payment gateway in test mode to work with your test account."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:206
+msgid "Debug Mode"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:208
+msgid ""
+"Record all Realex gateway communication to the WooCommerce Realex log file. "
+" It is recommended this be \"off\" unless in test mode or when debugging an "
+"error with a live account."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:211
+msgid "Off"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:212
+msgid "Save to Log"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:217
+msgid "Submit for Settlement"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:218
+msgid "Submit all transactions for settlement immediately."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:225
+msgid "Accepted Card Logos"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:229
+msgid ""
+"Select which card types you accept to display the logos for on your "
+"checkout page.  This is purely cosmetic and optional, and will have no "
+"impact on the cards actually accepted by your account on the hosted payment "
+"page."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:235
+msgid "Merchant ID"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:237
+msgid "Your Realex merchant id."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:242
+msgid "Shared Secret"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:244
+msgid "The shared secret for your account, provided by Realex."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:249
+msgid "Test Account"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:251
+msgid "Optional test account (if not supplied the default account will be used)"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:256
+msgid "Live Account"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:258
+msgid "Optional live account (if not supplied the default account will be used)"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:263
+msgid "Submission method"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:265
+msgid "Use form submission method."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:266
+msgid ""
+"Enable this to post order data to Realex via a form instead of using a "
+"redirect/querystring.  For existing customers: to disable this setting you "
+"are required to provide Realex with the Referring URL %s for whitelisting."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:272
+msgid "Address Verification Service (AVS)"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:273
+msgid "Perform an AVS check on customers billing addresses"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:279
+msgid "Response/Referring URLs Configured"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:280
+msgid ""
+"I certify that I have provided Realex with the proper Response/Referring "
+"URLs for this gateway"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:282
+msgid ""
+"To properly process transactions in live mode you must provide Realex (%s) "
+"with your Referring URLs: %s and %s and Response URL: %s"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:381
+msgid "Thank you for your order, please click the button below to pay with Realex."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:465
+msgid ""
+"Thank you for your order. We are now redirecting you to Realex to make "
+"payment."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:492
+msgid "Pay via Realex"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:493
+msgid "Cancel order &amp; restore cart"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:542
+msgid ""
+"Error - invalid signature for response order number '%s', possible "
+"fradulent payment attempt."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:556
+msgid ""
+"Error - amount returned by Realex '%s' does not match expected amount of "
+"'%s', possible fradulent payment attempt."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:573
+msgid "Error - payment has already been received for order '%s'"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:577
+msgid "Credit Card Transaction Approved."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:578
+msgid "Realex order number: %s"
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:594
+msgid "Realex Credit Card payment retry attempt (Result: %s - \"%s\")."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:610
+msgid "Realex Credit Card payment failed (Result: %s - \"%s\")."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:659
+msgid ""
+"This order has already been processed, if you feel this is incorrect please "
+"contact the merchant."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:665
+msgid "An error occurred, please try again or try an alternate form of payment."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:674
+msgid ""
+"An error occurred with your payment, please <a href=\"%s\">contact the "
+"merchant</a> to provide an alternative payment method."
+msgstr ""
+
+#: classes/class-wc-gateway-realex-redirect.php:709
+msgid ""
+"To properly process transactions with Realex you must provide %s with your "
+"Referring URLs: %s and %s and Response URL: %s.  Then certify this has been "
+"done in the WooCommerce Realex plugin configuration."
+msgstr ""
+
+#: lib/skyverge/woocommerce/class-sv-wc-admin-notice-handler.php:196
+msgid "Dismiss"
+msgstr ""
+
+#: lib/skyverge/woocommerce/class-sv-wc-plugin.php:192
+msgid "You cannot clone instances of %s."
+msgstr ""
+
+#: lib/skyverge/woocommerce/class-sv-wc-plugin.php:201
+msgid "You cannot unserialize instances of %s."
+msgstr ""
+
+#: lib/skyverge/woocommerce/class-sv-wc-plugin.php:319
+msgid ""
+"%s requires the %s PHP extension to function.  Contact your host or server "
+"administrator to configure and install the missing extension."
+msgid_plural ""
+"%s requires the following PHP extensions to function: %s.  Contact your "
+"host or server administrator to configure and install the missing "
+"extensions."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/skyverge/woocommerce/class-sv-wc-plugin.php:339
+msgid ""
+"%s requires the %s PHP function to exist.  Contact your host or server "
+"administrator to configure and install the missing function."
+msgid_plural ""
+"%s requires the following PHP functions to exist: %s.  Contact your host or "
+"server administrator to configure and install the missing functions."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/skyverge/woocommerce/class-sv-wc-plugin.php:374
+msgid "Docs"
+msgstr ""
+
+#: lib/skyverge/woocommerce/class-sv-wc-plugin.php:378
+msgid "Support"
+msgstr ""
+
+#: lib/skyverge/woocommerce/class-sv-wc-plugin.php:382
+msgid "Write a Review"
+msgstr ""
+
+#: lib/skyverge/woocommerce/class-sv-wc-plugin.php:632
+msgid "Configure"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Realex Redirect Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woothemes.com/products/realex-redirect-payment-gateway/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds the Realex Redirect Gateway to your WooCommerce website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SkyVerge"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.skyverge.com"
+msgstr ""

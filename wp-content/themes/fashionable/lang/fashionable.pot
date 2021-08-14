@@ -1,0 +1,140 @@
+# Copyright (C) 2014 WooThemes
+# This file is distributed under the GNU General Public License v2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fashionable 1.0.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/fashionable\n"
+"POT-Creation-Date: 2014-11-28 00:09:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: functions.php:181
+msgid "Browse"
+msgstr ""
+
+#: functions.php:324
+msgid "Fashionable"
+msgstr ""
+
+#: functions.php:328
+msgid "Use Child Theme Custom Overrides"
+msgstr ""
+
+#: functions.php:329
+msgid "Disable this option if you'd like to setup your own typography and layout settings."
+msgstr ""
+
+#: functions.php:334
+msgid "Top Navigation - Phone Number"
+msgstr ""
+
+#: functions.php:335
+msgid "Enter a phone number to be displayed to the right of your Top Navigation menu."
+msgstr ""
+
+#: functions.php:340
+msgid "Hero - Custom Background"
+msgstr ""
+
+#: functions.php:341
+msgid "Upload a background image for your hero section, or specify an image URL directly."
+msgstr ""
+
+#: functions.php:346
+msgid "Hero - Background Image Repeat"
+msgstr ""
+
+#: functions.php:347
+msgid "Select how you want your background image to display."
+msgstr ""
+
+#: functions.php:353
+msgid "Hero - Background image position"
+msgstr ""
+
+#: functions.php:354
+msgid "Select how you would like to position the background"
+msgstr ""
+
+#: functions.php:360
+msgid "Hero - Background Attachment"
+msgstr ""
+
+#: functions.php:361
+msgid "Select whether the background should be fixed or move when the user scrolls"
+msgstr ""
+
+#: functions.php:367
+msgid "Hero - Title"
+msgstr ""
+
+#: functions.php:368
+msgid "Enter the Hero title."
+msgstr ""
+
+#: functions.php:373
+msgid "Hero - Title Font Style"
+msgstr ""
+
+#: functions.php:374
+msgid "Select typography for the hero title."
+msgstr ""
+
+#: functions.php:379
+msgid "Hero - Message"
+msgstr ""
+
+#: functions.php:380
+msgid "Enter the Hero message."
+msgstr ""
+
+#: functions.php:385
+msgid "Hero - Message Font Style"
+msgstr ""
+
+#: functions.php:386
+msgid "Select typography for the hero message."
+msgstr ""
+
+#: functions.php:391
+msgid "Hero - Button"
+msgstr ""
+
+#: functions.php:392
+msgid "Enter the Hero button text."
+msgstr ""
+
+#: functions.php:397
+msgid "Hero - Button Link"
+msgstr ""
+
+#: functions.php:398
+msgid "Enter the Hero button url."
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Fashionable"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.woothemes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Designed by <a href=\"http://www.woothemes.com\">WooThemes</a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.woothemes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr ""

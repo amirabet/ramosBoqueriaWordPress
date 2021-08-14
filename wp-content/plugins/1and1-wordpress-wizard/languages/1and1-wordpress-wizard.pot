@@ -1,0 +1,277 @@
+# Copyright (C) 2014 1&1 WP Wizard
+# This file is distributed under the same license as the 1&1 WP Wizard package.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1&1 WP Wizard 2.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/1and1-wordpress-wizard\n"
+"POT-Creation-Date: 2014-09-04 08:19:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 1and1-wordpress-wizard.php:118 inc/views/setup-wizard-header.php:13
+#: inc/views/setup-wizard-installation-step.php:15 inc/welcome-panel.php:20
+msgid "1&1 WP Wizard"
+msgstr ""
+
+#: 1and1-wordpress-wizard.php:124
+msgid "The 1&1 WP Wizard could not be activated. To activate the plugin, you need WordPress 3.5 or higher."
+msgstr ""
+
+#: inc/batch-installer.php:57
+msgid "The 1&1 WP Wizard has been deactivated, you can find it in the %s area."
+msgstr ""
+
+#: inc/batch-installer.php:58
+msgctxt "area"
+msgid "Plugins"
+msgstr ""
+
+#: inc/batch-installer.php:65
+msgid "Installation completed."
+msgstr ""
+
+#: inc/batch-installer.php:66
+msgid "You are now ready to use your WordPress installation. You can continue customizing the selected theme or write your first blog post."
+msgstr ""
+
+#: inc/batch-installer.php:69
+msgid "Customize the Theme"
+msgstr ""
+
+#: inc/batch-installer.php:73
+msgid "Write a post"
+msgstr ""
+
+#: inc/batch-installer.php:82
+msgid "http://community.1and1.com"
+msgstr ""
+
+#: inc/batch-installer.php:89
+msgid "Community logo"
+msgstr ""
+
+#: inc/batch-installer.php:93
+msgid "1&1 Community"
+msgstr ""
+
+#: inc/batch-installer.php:94
+msgid ""
+"Use the 1&1 Community to talk about interesting web projects with WordPress, and get to know the people behind the projects.\n"
+"Learn more about important strategies, themes, and plugins.\n"
+"Discuss both simple and complex solutions to promote your next project."
+msgstr ""
+
+#: inc/batch-installer.php:100
+msgid "Go to our community site"
+msgstr ""
+
+#: inc/batch-installer.php:116
+msgid "No theme has been selected. The current theme will be kept."
+msgstr ""
+
+#: inc/batch-installer.php:134
+msgid "Installing theme: %s"
+msgstr ""
+
+#: inc/batch-installer.php:150
+msgid "Installing plugins (%s)"
+msgstr ""
+
+#: inc/batch-installer.php:159
+msgid "No Plugins have been selected."
+msgstr ""
+
+#: inc/batch-installer.php:173
+msgid "Installing plugin: %1$s (%2$s/%3$s)"
+msgstr ""
+
+#: inc/batch-installer.php:184
+msgid "Activating theme..."
+msgstr ""
+
+#: inc/batch-installer.php:190
+msgid "Activating plugins..."
+msgstr ""
+
+#: inc/plugin-categories-catalog.php:13
+msgid "Spam Protection"
+msgstr ""
+
+#: inc/plugin-categories-catalog.php:14
+msgid "Content Management"
+msgstr ""
+
+#: inc/plugin-categories-catalog.php:15
+msgid "Comment Management"
+msgstr ""
+
+#: inc/plugin-categories-catalog.php:16
+msgid "Search Engine Optimization"
+msgstr ""
+
+#: inc/plugin-categories-catalog.php:17
+msgid "Forms"
+msgstr ""
+
+#: inc/plugin-categories-catalog.php:18
+msgid "Caching"
+msgstr ""
+
+#: inc/plugin-installer-skin.php:30
+msgid "Successfully installed the plugin <strong>%1s$ %2s$</strong>."
+msgstr ""
+
+#: inc/plugin-installer-skin.php:42
+msgid "The plugin has already been installed."
+msgstr ""
+
+#: inc/setup-wizard-dispatcher.php:18
+msgid "Sorry, you do not have permission to access the 1&1 WP Wizard."
+msgstr ""
+
+#: inc/theme-installer-skin.php:23
+msgid "The theme already exists."
+msgstr ""
+
+#: inc/views/setup-wizard-header.php:18
+msgid "Website Type"
+msgstr ""
+
+#: inc/views/setup-wizard-header.php:22
+msgid "Appearance"
+msgstr ""
+
+#: inc/views/setup-wizard-header.php:26
+msgid "Plugins"
+msgstr ""
+
+#: inc/views/setup-wizard-installation-step.php:17
+msgid "Processing setup:"
+msgstr ""
+
+#: inc/views/setup-wizard-installation-step.php:19
+msgid "Please wait until all theme/plugins have been downloaded and installed."
+msgstr ""
+
+#: inc/views/setup-wizard-installation-step.php:34
+msgid "Getting installed"
+msgstr ""
+
+#: inc/views/setup-wizard-plugin-item-compatibility.php:20
+#: inc/views/setup-wizard-theme-item.php:17
+msgid "More information"
+msgstr ""
+
+#: inc/views/setup-wizard-plugin-item-compatibility.php:28
+#: inc/views/setup-wizard-plugin-item.php:38
+msgid "Install"
+msgstr ""
+
+#: inc/views/setup-wizard-plugins-select-step.php:56
+msgid "Step 3 - Selecting plugins"
+msgstr ""
+
+#: inc/views/setup-wizard-plugins-select-step.php:60
+msgid "Continue"
+msgstr ""
+
+#: inc/views/setup-wizard-plugins-select-step.php:63
+msgid "The plugins couldn't get retrieved. Please refresh the page."
+msgstr ""
+
+#: inc/views/setup-wizard-plugins-select-step.php:66
+msgid "You already installed all the plugins we recommend. Nice job!"
+msgstr ""
+
+#: inc/views/setup-wizard-plugins-select-step.php:69
+msgid "Install all selected theme/plugins"
+msgstr ""
+
+#: inc/views/setup-wizard-plugins-select-step.php:70
+msgid "Select the desired plugins to expand the range of functions in your WordPress installation."
+msgstr ""
+
+#: inc/views/setup-wizard-plugins-select-step.php:83
+msgid "Recommended plugins:"
+msgstr ""
+
+#: inc/views/setup-wizard-plugins-select-step.php:100
+msgid "These plugins are worth a try as well:"
+msgstr ""
+
+#: inc/views/setup-wizard-plugins-select-step.php:121
+#: inc/views/setup-wizard-theme-select-step.php:66
+msgid "Back to the beginning"
+msgstr ""
+
+#: inc/views/setup-wizard-site-select-step.php:23
+msgid "Step 1 - Selecting website type"
+msgstr ""
+
+#: inc/views/setup-wizard-site-select-step.php:25
+msgid "Here you can select the desired website type."
+msgstr ""
+
+#: inc/views/setup-wizard-site-select-step.php:47
+#: inc/views/setup-wizard-theme-select-step.php:57
+msgid "Select"
+msgstr ""
+
+#: inc/views/setup-wizard-site-select-step.php:56
+msgid "The website types couldn't get retrieved. Please refresh the page."
+msgstr ""
+
+#: inc/views/setup-wizard-theme-item.php:43
+msgid "By %s"
+msgstr ""
+
+#: inc/views/setup-wizard-theme-select-step.php:36
+msgid "Step 2 - Selecting appearance"
+msgstr ""
+
+#: inc/views/setup-wizard-theme-select-step.php:38
+msgid "You can select the desired design here."
+msgstr ""
+
+#: inc/views/setup-wizard-theme-select-step.php:47
+msgid "Keep Current Theme"
+msgstr ""
+
+#: inc/welcome-panel.php:21
+msgid "Create your own WordPress website in just a few steps."
+msgstr ""
+
+#: inc/welcome-panel.php:22
+msgid "1&1 WP Wizard enables you to get a quick start in WordPress with selected themes and plugins."
+msgstr ""
+
+#: inc/welcome-panel.php:26
+msgid "Get Started"
+msgstr ""
+
+#: inc/welcome-panel.php:29
+msgid "Dismiss"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "1&1 WP Wizard"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.1and1.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WordPress Setup Wizard"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "1&1"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.1and1.com"
+msgstr ""

@@ -1,0 +1,425 @@
+{
+	"themes": [
+		{
+			"slug": "hueman",
+			"siteTypes": [
+				{
+					"id": "blog"
+				},
+				{
+					"id": "business"
+				},
+				{
+					"id": "personal"
+				}
+			]
+		},
+		{
+			"slug": "attitude",
+			"siteTypes": [
+				{
+					"id": "blog"
+				},
+				{
+					"id": "personal"
+				}
+			]
+		},
+		{
+			"slug": "duena",
+			"siteTypes": [
+				{
+					"id": "blog"
+				},
+				{
+					"id": "personal"
+				}
+			]
+		},
+		{
+			"slug": "radiate",
+			"siteTypes": [
+				{
+					"id": "blog"
+				},
+				{
+					"id": "personal"
+				}
+			]
+		},
+		{
+			"slug": "twentyfourteen",
+			"siteTypes": [
+				{
+					"id": "blog"
+				}
+			]
+		},
+		{
+			"slug": "twentythirteen",
+			"siteTypes": [
+				{
+					"id": "gallery"
+				},
+				{
+					"id": "blog"
+				},
+				{
+					"id": "personal"
+				},
+				{
+					"id": "business"
+				}
+			]
+		},
+		{
+			"slug": "twentyeleven",
+			"siteTypes": [
+				{
+					"id": "gallery"
+				},
+				{
+					"id": "blog"
+				},
+				{
+					"id": "personal"
+				}
+			]
+		},
+		{
+			"slug": "portfolio-press",
+			"siteTypes": [
+				{
+					"id": "gallery"
+				},
+				{
+					"id": "blog"
+				},
+				{
+					"id": "personal"
+				}
+			]
+		},
+		{
+			"slug": "responsive",
+			"siteTypes": [
+				{
+					"id": "gallery"
+				},
+				{
+					"id": "blog"
+				},
+				{
+					"id": "personal"
+				},
+				{
+					"id": "business"
+				}
+			]
+		},
+		{
+			"slug": "suffusion",
+			"siteTypes": [
+				{
+					"id": "gallery"
+				},
+				{
+					"id": "blog"
+				},
+				{
+					"id": "business"
+				}
+			]
+		},
+		{
+			"slug": "twentyten",
+			"siteTypes": [
+				{
+					"id": "blog"
+				},
+				{
+					"id": "personal"
+				},
+				{
+					"id": "business"
+				}
+			]
+		},
+		{
+			"slug": "sparkling",
+			"siteTypes": [
+				{
+					"id": "gallery"
+				},
+				{
+					"id": "blog"
+				},
+				{
+					"id": "personal"
+				},
+				{
+					"id": "business"
+				}
+			]
+		},
+		{
+			"slug": "pinbin",
+			"siteTypes": [
+				{
+					"id": "gallery"
+				},
+				{
+					"id": "blog"
+				}
+			]
+		},
+		{
+			"slug": "weaver-ii",
+			"siteTypes": [
+				{
+					"id": "blog"
+				},
+				{
+					"id": "personal"
+				},
+				{
+					"id": "business"
+				}
+			]
+		},
+		{
+			"slug": "mesocolumn",
+			"siteTypes": [
+				{
+					"id": "personal"
+				}
+			]
+		},
+		{
+			"slug": "sixteen",
+			"siteTypes": [
+				{
+					"id": "gallery"
+				}
+			]
+		}
+	],
+	"plugins": [
+		{
+			"slug": "akismet",
+			"shortDescription":"Akismet checks your comments against the Akismet web service to see if they look like spam or not.",
+			"shortDescription_de_DE":"Akismet untersucht Ihre Kommentare durch einen Abgleich mit dem Akismet-Webdienst nach Spam.",
+			"pluginCategory":"anti_spam",
+			"siteTypes": [
+				{
+					"id": "gallery",
+					"installation": "recommended"
+				},
+				{
+					"id": "blog",
+					"installation": "recommended"
+				},
+				{
+					"id": "business",
+					"installation": "recommended"
+				},
+				{
+					"id": "personal",
+					"installation": "recommended"
+				}
+			]
+		},
+		{
+			"slug": "disable-comments",
+			"shortDescription":"Allows administrators to globally disable comments on their site. Comments can be disabled according to post type. Multisite friendly.",
+			"shortDescription_de_DE":"Ermöglicht Administratoren Kommentare global für die gesamte Website zu deaktivieren. Kommentare können je nach Beitragstyp deaktiviert werden. Auch für Projekte mit mehreren Websites geeignet.",
+			"pluginCategory":"comment_management",
+			"siteTypes": [
+				{
+					"id": "gallery",
+					"installation": "recommended"
+				},
+				{
+					"id": "blog",
+					"installation": "recommended"
+				},
+				{
+					"id": "business",
+					"installation": "default"
+				},
+				{
+					"id": "personal",
+					"installation": "default"
+				}
+			]
+		},
+		{
+			"slug": "imagelightbox",
+			"shortDescription": "Image Lightbox, Responsive and Touch‑friendly.",
+			"shortDescription_de_DE": "Image Lightbox mit Responsive Design-Features und Touch-Unterstützung",
+			"pluginCategory": "content_management",
+			"siteTypes": [
+				{
+					"id": "gallery",
+					"installation": "default"
+				}
+			]
+		},
+		{
+			"slug": "regenerate-thumbnails",
+			"shortDescription": "Allows you to regenerate your thumbnails after changing the thumbnail sizes.",
+			"shortDescription_de_DE": "Ermöglicht die Neugenerierung Ihrer Miniaturbilder nachdem Sie deren Größe geändert haben.",
+			"pluginCategory": "content_management",
+			"siteTypes": [
+				{
+					"id": "gallery",
+					"installation": "recommended"
+				}
+			]
+		},
+		{
+			"slug": "simple-page-ordering",
+			"shortDescription":"Order your pages and other hierarchical post types with simple drag and drop right from the standard page list.",
+			"shortDescription_de_DE":"Ordnen Sie Ihre Seiten und andere hierarchische Beitragstypen ganz einfach per Drag & Drop direkt auf der Übersichtsseite.",
+			"pluginCategory":"content_management",
+			"siteTypes": [
+				{
+					"id": "gallery",
+					"installation": "recommended"
+				},
+				{
+					"id": "blog",
+					"installation": "recommended"
+				},
+				{
+					"id": "business",
+					"installation": "recommended"
+				},
+				{
+					"id": "personal",
+					"installation": "recommended"
+				}
+			]
+		},
+		{
+			"slug": "site-manager",
+			"shortDescription": "Update WordPress, themes and plugins to improve stability and security.",
+			"shortDescription_de_DE":"Aktualisiert WordPress, Themes und Plugins für höhere Stabilität und mehr Sicherheit.",
+			"pluginCategory":"content_management",
+			"siteTypes": [
+				{
+					"id": "gallery",
+					"installation": "recommended"
+				},
+				{
+					"id": "blog",
+					"installation": "recommended"
+				},
+				{
+					"id": "business",
+					"installation": "recommended"
+				},
+				{
+					"id": "personal",
+					"installation": "recommended"
+				}
+			]
+		},
+		{
+			"slug": "contact-form-7",
+			"shortDescription": "Adds flexible contact forms to your site.",
+			"shortDescription_de_DE":"Fügt Ihrer Website flexible Kontakformulare hinzu.",
+			"pluginCategory":"forms",
+			"siteTypes": [
+				{
+					"id": "gallery",
+					"installation": "recommended"
+				},
+				{
+					"id": "blog",
+					"installation": "recommended"
+				},
+				{
+					"id": "business",
+					"installation": "default"
+				},
+				{
+					"id": "personal",
+					"installation": "default"
+				}
+			]
+		},
+		{
+			"slug": "wysija-newsletters",
+			"shortDescription": "Send newsletters, post notifications or autoresponders from WordPress easily, and beautifully.",
+			"shortDescription_de_DE":"Ermöglicht einfaches und schnelles Versenden von Newslettern, Beitragsbenachrichtigungen oder automatischen Benachrichtigungen.",
+			"pluginCategory": "forms",
+			"siteTypes": [
+				{
+					"id": "gallery",
+					"installation": "recommended"
+				},
+				{
+					"id": "blog",
+					"installation": "recommended"
+				},
+				{
+					"id": "business",
+					"installation": "recommended"
+				},
+				{
+					"id": "personal",
+					"installation": "recommended"
+				}
+			]
+		},
+		{
+			"slug": "google-sitemap-generator",
+			"shortDescription": "Generates a sitemap which will help search engines to better index your blog.",
+			"shortDescription_de_DE":"Erstellt eine Sitemap, die Suchmaschinen hilft Ihren Blog besser zu indizieren.",
+			"pluginCategory":"seo",
+			"siteTypes": [
+				{
+					"id": "gallery",
+					"installation": "recommended"
+				},
+				{
+					"id": "blog",
+					"installation": "default"
+				},
+				{
+					"id": "business",
+					"installation": "default"
+				},
+				{
+					"id": "personal",
+					"installation": "recommended"
+				}
+			]
+		},
+		{
+			"slug": "wordpress-seo",
+			"shortDescription":"Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using the WordPress SEO plugin by Yoast.",
+			"shortDescription_de_DE":"Optimieren Sie Ihre WordPress-Installation für Suchmaschinen: Das WordPress SEO-Plugin von Yoast unterstützt Sie beim Schreiben optimaler Inhalte und Erstellen einer SEO-optimierten WordPress-Seite.",
+			"pluginCategory":"seo",
+			"siteTypes": [
+				{
+					"id": "gallery",
+					"installation": "recommended"
+				},
+				{
+					"id": "blog",
+					"installation": "recommended"
+				},
+				{
+					"id": "business",
+					"installation": "default"
+				},
+				{
+					"id": "personal",
+					"installation": "recommended"
+				}
+			]
+		}
+	]
+}

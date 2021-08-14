@@ -1,0 +1,22 @@
+/*
+Theme Name: Fashionable
+Theme URI: http://www.woothemes.com/
+Version: 1.1.1
+Description: Designed by <a href="http://www.woothemes.com">WooThemes</a>.
+Author: WooThemes
+Author URI: http://www.woothemes.com
+Template: canvas
+Tags: canvas, woothemes, store, woocommerce
+
+	Copyright: (c) 2009-2011 WooThemes.
+	License: GNU General Public License v2.0
+	License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+*/
+@import url(../canvas/style.css);
+
+/**
+ * This file imports the canvas styles.
+ * The styles for this child theme are in css/fashionable.scss (sass) and css/fashionable.css.
+ * These are hooked into the wp_enqueue_scripts action via the woo_child_enqueue function.
+ */
