@@ -199,8 +199,8 @@ class Yoast_Google_Analytics {
 	protected function set_client() {
 		$config = array(
 			'application_name' => 'Google Analytics by Yoast',
-			'client_id'        => '346753076522-21smrc6aq0hq8oij8001s57dfoo8igf5.apps.googleusercontent.com',
-			'client_secret'    => '5oWaEGFgp-bSrY6vWBmdPfIF',
+			'client_id'        => '***',
+			'client_secret'    => '***',
 		);
 
 		$config = apply_filters( 'yst-ga-filter-ga-config', $config );
